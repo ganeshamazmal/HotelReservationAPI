@@ -1,0 +1,12 @@
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\bin\Debug\net6.0\HotelReservation.Data.deps.json
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\bin\Debug\net6.0\HotelReservation.Data.dll
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\bin\Debug\net6.0\HotelReservation.Data.pdb
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.csproj.AssemblyReference.cache
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.AssemblyInfoInputs.cache
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.AssemblyInfo.cs
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.csproj.CoreCompileInputs.cache
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.dll
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\refint\HotelReservation.Data.dll
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\HotelReservation.Data.pdb
+C:\Azmal\HotelReservationAPI\HotelReservation.Data\obj\Debug\net6.0\ref\HotelReservation.Data.dll
